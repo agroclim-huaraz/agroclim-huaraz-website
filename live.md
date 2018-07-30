@@ -12,6 +12,6 @@ background: '/img/bg-live.jpg'
 </a>
 <small> *Click on the picture for more!* </small>
 
-## Live meteorological data (start Sept. 2018)
+## Live meteorological data (start: Sept. 2018)
 
 <img src='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' width='100%'>

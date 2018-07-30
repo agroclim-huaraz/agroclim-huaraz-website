@@ -7,12 +7,12 @@ background: '/img/bg-about.jpg'
 
 This website was created as an online companion to a research proposal submitted
 to the Austrian Academy of Sciences for the Earth System Sciences (ESS)
-call [“Water in Mountain Regions”](https://www.oeaw.ac.at/ess/) (13.08.2018).
+call “[Water in Mountain Regions](https://www.oeaw.ac.at/ess/)” (13.08.2018).
 
 Our research proposal is entitled "**AgroClim Huaraz:
 Spatio-temporal variability in water availability and demand in the Peruvian Andes**".
 
-## Team
+### Team
 
 <img src='http://acinn.uibk.ac.at/sites/default/files/styles/portrait/public/staff/photos/maussion_imgi_hp.jpg' width='15%' align='left' hspace='50'>
 [Fabien Maussion](https://fabienmaussion.info/) (Department of Atmospheric and Cryospheric Sciences, University of Innsbruck)
@@ -38,12 +38,23 @@ Spatio-temporal variability in water availability and demand in the Peruvian And
 <br>
 
 
-## Disclaimer
+### Disclaimer
 
 The views expressed on this site are our own and do not necessarily represent
 the official positions of our employers.
 
-## Photo credits
+### License
+
+Unless specified otherwise, the **content** of this site (including images) are licensed
+under a
+[Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
+
+Website **template** from [startbootstrap](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/),
+released under MIT license (see [license.txt](https://github.com/agroclim-huaraz/agroclim-huaraz.github.io/blob/master/LICENSE.txt)).
+
+### Photo credits
 
 **Panoramas**: <br>
 [Home](http://localhost:4000/img/bg-home.jpg),
