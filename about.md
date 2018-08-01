@@ -14,28 +14,24 @@ Spatio-temporal variability in water availability and demand in the Peruvian And
 
 ### Team
 
-<img src='/img/portraits/mafa_klein.jpg' width='15%' align='left' hspace='50'>
+<img src='/img/portraits/mafa_klein.jpg' width='12%' align='left' hspace='50'>
 [Fabien Maussion](https://fabienmaussion.info/) (Department of Atmospheric and Cryospheric Sciences, University of Innsbruck)
 
 <br>
-<br>
 
-<img src='/img/portraits/guwo_klein.jpg' width='15%' align='left' hspace='50'>
+<img src='/img/portraits/guwo_klein.jpg' width='12%' align='left' hspace='50'>
 [Wolfgang Gurgiser](http://acinn.uibk.ac.at/persons/wolfgang_gurgiser) (Department of Atmospheric and Cryospheric Sciences, University of Innsbruck)
 
 <br>
-<br>
 
-<img src='/img/portraits/woge_klein.jpg' width='15%' align='left' hspace='50'>
+<img src='/img/portraits/woge_klein.jpg' width='12%' align='left' hspace='50'>
 [Georg Wohlfahrt](https://www.uibk.ac.at/ecology/staff/persons/wohlfahrt.html.en) (Department of Ecology, University of Innsbruck)
 
 <br>
-<br>
 
-<img src='/img/portraits/capi_klein.jpg' width='15%' align='left' hspace='50'>
+<img src='/img/portraits/capi_klein.jpg' width='12%' align='left' hspace='50'>
 [Pierluigi Calanca](https://www.researchgate.net/profile/Pierluigi_Calanca) (Agroscope, Zürich)
 
-<br>
 <br>
 <br>
 
