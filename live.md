@@ -7,7 +7,7 @@ background: '/img/bg-live.jpg'
 
 ## Live webcam
 
-<a href='https://www.foto-webcam.eu/webcam/huaraz/'>
+<a href='https://www.foto-webcam.eu/webcam/huaraz/' target="_blank">
 <img src='https://www.foto-webcam.eu/webcam/huaraz/current/720.jpg' width='100%'>
 </a>
 <small> *Click on the picture for more!* </small>
