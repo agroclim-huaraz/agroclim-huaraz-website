@@ -55,9 +55,9 @@ released under MIT license (see [license.txt](https://github.com/agroclim-huaraz
 ### Photo credits
 
 **Panoramas**: <br>
-[Home](http://localhost:4000/img/bg-home.jpg),
-[Study region](http://localhost:4000/img/bg-region.jpg),
-[Publications](http://localhost:4000/img/bg-publi.jpg),
-[Blog](http://localhost:4000/img/bg-blog.jpg): Wolfgang Gurgiser <br>
-[About](http://localhost:4000/img/bg-about.jpg): Daniel Heinemann  <br>
-[Live data](http://localhost:4000/img/bg-live.jpg): [foto-webcam.eu](https://www.foto-webcam.eu/webcam/huaraz/)  <br>
+[Home]({{site.base_url}}/img/bg-home.jpg),
+[Study region]({{site.base_url}}/img/bg-region.jpg),
+[Publications]({{site.base_url}}/img/bg-publi.jpg),
+[Blog]({{site.base_url}}/img/bg-blog.jpg): Wolfgang Gurgiser <br>
+[About]({{site.base_url}}/img/bg-about.jpg): Daniel Heinemann  <br>
+[Live data]({{site.base_url}}/img/bg-live.jpg): [foto-webcam.eu](https://www.foto-webcam.eu/webcam/huaraz/)  <br>
