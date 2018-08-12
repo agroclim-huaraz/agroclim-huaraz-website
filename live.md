@@ -14,7 +14,9 @@ background: '/img/bg-live.jpg'
 
 ## Precipitation along the Huaraz transect
 
-See the map in <a href='{{site.base_url}}/region' > Study Region </a> for
+
+In the plots below the stations are ordered from west to east:
+see the map in <a href='{{site.base_url}}/region' > Study Region </a> for
 the location of the sensors.
 
 {% include hobos_ts.html %}
