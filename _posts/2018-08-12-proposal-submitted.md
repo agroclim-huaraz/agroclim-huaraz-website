@@ -15,4 +15,4 @@ The decision should be taken by the end of the year - let's keep fingers
 crossed!
 
 <a href="/img/posts/CN-Oben.jpg"> <img src='/img/posts/CN-Oben.jpg' width='100%'> </a>
-<small> *Photos: Daniel Heinemann* </small>
+<small> *Photo: Daniel Heinemann* </small>
