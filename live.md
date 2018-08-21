@@ -32,4 +32,5 @@ the occurrence of dry and wet spells during the rainy season.*
 
 ## Live meteorological data (start: Mid-August 2018)
 
-<img src='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' width='100%'>
+<a href='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' > <img src='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' width='100%'>
+</a>
