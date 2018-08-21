@@ -30,6 +30,6 @@ the occurrence of dry and wet spells during the rainy season.*
  *Daily cycle of precipitation for all periods without data gaps,
  displaying a clear cycle as well a significant differences along the transect.*
 
-## Live meteorological data (start: Sept. 2018)
+## Live meteorological data (start: Mid-August 2018)
 
 <img src='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' width='100%'>
