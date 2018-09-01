@@ -15,9 +15,9 @@ As data availability has increased in recent years and luckily, we could observe
 
 <div class="myvideo">
    <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="{{ site.baseurl }}/video/PuspaTimelapse17082018.mp4" type="video/mp4" />
-       <source src="{{ site.baseurl }}//video/PuspaTimelapse17082018.ogv" type="video/ogg" />
-       <source src="{{ site.baseurl }}/media//video/PuspaTimelapse17082018.webm"  type="video/webm"  />
+       <source src="/video/PuspaTimelapse17082018.mp4" type="video/mp4" />
+       <source src="/video/PuspaTimelapse17082018.ogv" type="video/ogg" />
+       <source src="/video/PuspaTimelapse17082018.webm"  type="video/webm"  />
    </video>
    <small> Images of our [automatic camera]({{site.base_url}}/live) in Huaraz captured on August 17th 2018 from 0800-1830 (10min capture interval). </small>
 </div>
