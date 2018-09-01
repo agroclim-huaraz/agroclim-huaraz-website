@@ -19,7 +19,7 @@ As data availability has increased in recent years and luckily, we could observe
        <source src="/video/PuspaTimelapse17082018.ogv" type="video/ogg" />
        <source src="/video/PuspaTimelapse17082018.webm"  type="video/webm"  />
    </video>
-   <small> Images of our [automatic camera]({{site.base_url}}/live) in Huaraz captured on August 17th 2018 from 0800-1830 (10min capture interval). </small>
+   <small> Images of our [automatic camera](https://agroclim-huaraz.info/live) in Huaraz captured on August 17th 2018 from 0800-1830 (10min capture interval). </small>
 </div>
 
 On the eastern slopes above Huaraz, the event was characterized by slow but continuous cloud development from around 1000 on. Precipitation around Nevado Churup started at 1310 and the area with the presumably highest precipitation rates (as visible from the webcam) was surprisingly stable until 1600. In between this period, some showers also hit the surroundings of Nevado Churup and our weather station in Llupa measured ~2mm of total precipitation. Around 1700, another, more wide-spread precipitation event started with weak rainfall (<0.5mm) also hitting the city of Huaraz.
