@@ -7,7 +7,7 @@ author:  Wolfgang Gurgiser
 background: '/img/posts/bg-puspa.jpg'
 ---
 
-Puspa
+###Puspa
 - described as light rainfall or drizzle events that wetten the soil towards the beginning of the new agricultural year at the end of the dry season in August [Gurgiser et al. 2016](https://www.earth-syst-dynam.net/7/499/2016/esd-7-499-2016.html) - important for traditional farming since long as deducible from the existence of an own (Quechua) term for these precipitation events
 - not well known from a scientific viewpoint due to missing local experiences (of the scientists) and missing observations with high enough resolution
 
