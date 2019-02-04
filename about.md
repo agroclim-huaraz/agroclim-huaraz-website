@@ -6,14 +6,14 @@ background: '/img/bg-about.jpg'
 ---
 
 This website was created as an online companion to a research proposal submitted
-to the Austrian Academy of Sciences for the Earth System Sciences (ESS)
-call “[Water in Mountain Regions](https://www.oeaw.ac.at/ess/)” (13.08.2018).
+to the Austrian Academy of Sciences (Earth System Sciences
+call “[Water in Mountain Regions](https://www.oeaw.ac.at/ess/)”,
+submitted 13.08.2018, accepted 17.12.2018).
 
-Our research proposal is entitled "**AgroClim Huaraz:
+Our research project is entitled "**AgroClim Huaraz:
 Spatio-temporal variability in water availability and demand in the Peruvian Andes**".
 
 ### Team
-
 
 ##### Principle investigators
 
