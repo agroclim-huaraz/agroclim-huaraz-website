@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The project
-description:
+description: What do we do?
 background: '/img/bg-home.jpg'
 ---
 
