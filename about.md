@@ -66,8 +66,8 @@ Andes**".
 
 ##### Master students
 
-**Albrecht, A.**, thesis: *Influence of soil properties initialisation in WRF simulations over the Tropical Andes of Peru* <br>
-**Zauner, C.**, thesis: *Can atmospheric models simulate Puspa rains?*
+**Peter Albrecht**, thesis: *Influence of soil properties initialisation in WRF simulations over the Tropical Andes of Peru* <br>
+**Cornelia Zauner**, thesis: *Can atmospheric models simulate Puspa rains?*
 
 ##### Local collaborations in Peru
 
