@@ -57,7 +57,7 @@ Andes**".
 <br>
 
 <img src='/img/portraits/noname_klein.jpg' width='24%' align='left' hspace='0'>
-<a href="https://www.uibk.ac.at/ecology/staff/persons/haehnchen.html.en"> <u>Lorenz Hähnchen</u></a> <br>
+<a href="https://www.uibk.ac.at/ecology/staff/persons/haenchen.html.en"> <u>Lorenz Hänchen</u></a> <br>
 <a href="https://www.uibk.ac.at/ecology/index.html.en"> <u>Department of Ecology</u></a>, University of Innsbruck
 
 <br>
