@@ -9,14 +9,14 @@ background: '/img/bg-blog.jpg'
 
 The "AgroClim Huaraz Kick-Off Meeting" took place in Innsbruck last week! For
 two days (05th and 06th of June 2019), the project members and collaborators
-met in a friendly atmosphere. The programme contained several scientific
-presentations from the participants as well as important discussions about the
+met in a friendly atmosphere. We heard scientific presentations from the
+participants and had important discussions about the
 upcoming field work and intensive observation period in September.
 
 We were very lucky to welcome our Peruvian colleagues Alejo Cochachín Rapre
 and Rolando Cruz Encarnación (Autoridad Nacional de Agua) for the week.
-Fortunately, the weather was very good (almost *too* hot maybe?) and allowed us
-to have a wonderful workshop diner at the Umbrüggler Alm, high up above the
+Fortunately, the weather was very good (almost *too* good maybe?) and allowed us
+to have a wonderful workshop dinner at the Umbrüggler Alm, high up above the
 city.
 
 <a href="/img/posts/kickoff/20190605_Workshop.jpg"> <img src='/img/posts/kickoff/20190605_Workshop_s.jpg' width='100%'> </a>
