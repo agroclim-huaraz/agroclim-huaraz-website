@@ -2,7 +2,7 @@
 layout: page
 title: The project
 description: What do we do?
-background: '/img/bg-home.jpg'
+background: '/img/bg-llupa.jpg'
 ---
 
 In the complex topography of the semi-arid Peruvian Andes, the strong gradients
