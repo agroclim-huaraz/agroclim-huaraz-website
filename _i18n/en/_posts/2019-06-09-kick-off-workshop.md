@@ -5,6 +5,8 @@ subtitle: "A fruitful workshop an an official start for the project"
 date:   2019-06-09 18:00:00
 author:  Fabien Maussion
 background: '/img/bg-blog.jpg'
+lang: en
+permalink: /blog/kick-off-workshop
 ---
 
 The "AgroClim Huaraz Kick-Off Meeting" took place in Innsbruck last week! For

@@ -1,0 +1,19 @@
+global:
+  english: English
+  spanish: Spanish
+  site_title: AgroClim Huaraz
+  site_description: Water availability and water demand in the Peruvian Andes
+navbar:
+  project: Project
+  study_region: Study region
+  live_data: Live data
+  publications: Publications
+  blog: Blog
+  about: About
+titles:
+  project: Project
+  study_region: Study region
+  live_data: Live data
+  publications: Publications
+  blog: Blog
+  about: About
