@@ -69,6 +69,7 @@ Andes**".
 ##### Master students
 
 **Peter Albrecht**, thesis: *Influence of soil properties initialisation in WRF simulations over the Tropical Andes of Peru* <br>
+**Zora Schirmeister**, thesis: *Future climate change in the Rio Santa Basin, Peruvian Andes,  as described by CMIP5 and CORDEX data* <br>
 **Cornelia Zauner**, thesis: *Can atmospheric models simulate Puspa rains?*
 
 ##### Local collaborations in Peru
