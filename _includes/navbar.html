@@ -31,10 +31,10 @@
 
     {% if site.lang == "en" %}
       {% capture link1 %}{{ site.baseurl_root }}/es{{ page.permalink_es }}{% endcapture %}
-        <a href="{{ link1 }}" >{% t global.spanish %}</a>
+        <a href="{{ link1 }}" class="lang-switcher spanish" title="Website en espa&#xF1;ol"><img src="/img/peru-flag-round.png" width="16px" height="16px" /> {% t global.es %}</a>
     {% elsif site.lang == "es" %}
       {% capture link2 %}{{ site.baseurl_root }}{{ page.permalink }}{% endcapture %}
-        <a href="{{ link2 }}" >{% t global.english %}</a>
+        <a href="{{ link2 }}" class="lang-switcher english" title="English Website"><img src="/img/uk-flag-round.png" width="16px" height="16px" /> {% t global.en %}</a>
     {% endif %}
   </div>
 </nav>

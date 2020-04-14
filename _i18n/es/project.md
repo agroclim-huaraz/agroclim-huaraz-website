@@ -1,31 +1,40 @@
-(ES) In the complex topography of the semi-arid Peruvian Andes, the strong gradients
-of temperature and precipitation have shaped the local agriculture. Traditional
-farming practices rely on experience gained by generations of farmers about the
-local weather and climate.
+
+En el complejo relieve topográfico del los semi-áridos 
+Andes Peruanos, fuertes gradientes de temperatura y precipitación 
+han dado forma a la agricultura local. Las prácticas agrícolas 
+tradicionales, dependen de la experiencia ganada durante generaciones, 
+sobre las condiciones metereológicas y el clima local.
 
 <a href="/img/land/field.jpg"> <img src='/img/land/field.jpg' width='100%'> </a>
 
-Recent climate change, which coincides with increasing food and water demand from the
-expanding cities, has transformed and challenged the small-scale subsidence
-farming. In order to develop efficient adaptation strategies, it is crucial
-to
-- **better quantify the recent variability and change of climate variables
-relevant for rain-fed agriculture**
-- **identify the most resilient crops
-and agricultural methods for present and expected near-future climate conditions**.
+Los recientes efectos del cambio climático coinciden con la
+expansión territoreal y el incremento en la demanda de recursos hídricos y alimenticios. 
+A consecuencia de estos cambios, granjeros practicantes de una agricultura de subsistencia,
+deben de adaptarse y enfrentar un nuevo reto. 
 
-In this project, we follow a transdisciplinary strategy combining atmospheric
-and crop modelling with in-situ and remote sensing observations, as well as
-interactions with local farmers and scientists. We aim to merge these data and
-methods to identify the main vulnerabilities of today’s farming practices and
-develop a model framework that can be used to address agroclimatic research
-questions in the region. This tool will form the scientific basis for a series of
-practical recommendations oriented towards local stake holders and communities.
+Para poder desarrollar estragegias eficientes de adaptación agrícola, es crucial:
+ 
+ - **Cuantificar la variablidad del cambio en parámetros climáticos 
+ relevantes para la agricultura de secano.**
+ - **Identificar los cultivos más resistentes y los métodos 
+ de agricultura más apropiados para las presentes y futuras condiciones climáticas.** 
+  
+En este proyecto, seguimos una estrategia multidiciplinaria, combinando modelos 
+atmosféricos y de cultivo con observaciones remotas e in-situ de la zona, 
+e involucrando a científicos y agricultores locales. 
 
-Our [study area](/region) spans a west-east transect from the Cordillera Negra
-to the Cordillera Blanca at the latitude of the city of Huaraz.
-Our [team](/about), originating from various countries and backgrounds, is joined
-by a strong network of international collaborations and by a team of
-Peruvian scientists, field workers and farmers.
+Nuestro objetivo es integrar los datos y métodos obtenidos durante el proyecto, 
+e indentificar puntos vulnerables en las prácticas agrícolas actuales. 
+Así como también, desarrollar un modelo que pueda emplearse en 
+la investigación agroclimática de la zona. Dicha herramienta formará la base 
+científica para una serie de recomendaciones en prácticas agrícolas 
+orientadas a agricultores locales y comunidades interesadas.
+
+Nuestra [área de estudio](/es/region) se extiende desde la zona Oeste-Este de la 
+Cordillera Negra hacia la Cordillera Blanca, a la latitud de la ciudad de Huaraz.
+Nuestro [equipo](/es/acerca_de), esta formado por personas de varios paises y orígenes, 
+unido por una fuerte red colaboradores internacionales y por un equipo de
+cientificos, agricultores peruanos y trabajadores de campo.
+
 
 <a href="/img/land/green.jpg"> <img src='/img/land/green.jpg' width='100%'> </a>

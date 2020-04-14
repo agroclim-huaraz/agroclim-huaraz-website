@@ -5,6 +5,8 @@ subtitle: "About precipitation events in August called Puspa"
 date:   2018-09-01 17:00:00
 author:  Wolfgang Gurgiser
 background: '/img/posts/bg-puspa.jpg'
+permalink: /2018/09/01/modeling-puspa
+permalink_es: /2018/09/01/simulando-puspa
 ---
 
 #### Puspa

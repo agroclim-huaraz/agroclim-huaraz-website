@@ -1,6 +1,6 @@
 {% include map_huaraz.html %}
-(ES)*Interactive map of our study region. The HOBOs are precipitation and temperature
-sensors, AWS stands for "Automatic Weather Station", and the camera is a
-high-resolution webcam. Click
-<a href="https://www.foto-webcam.eu/webcam/huaraz/" target="_blank">here</a>
-for a live view into the area!*
+*Mapa interactivo del área de estudio. Los HOBOs son sensores de precipitación y
+temperatura, AWS significa por sus siglas en íngles: "Estaciones 
+metereológicas áutomaticas", y la cámera es una cámara web de alta resolución. Haz 
+click <a href="https://www.foto-webcam.eu/webcam/huaraz/" target="_blank">aquí</a>
+para hacer una vista en vivo al sitio!*

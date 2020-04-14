@@ -1,32 +1,33 @@
-## (ES) Live webcam
+## Cámara en vivo
 
 <a href='https://www.foto-webcam.eu/webcam/huaraz/' target="_blank">
 <img src='https://www.foto-webcam.eu/webcam/huaraz/current/720.jpg' width='100%'>
 </a>
-<small> *Click on the picture for more!* </small>
+<small> *Haz click en la imagen para ver más!* </small>
 
 
-## Live agro-meteorological data at Llupa
+## Datos agro-meteorológicos en vivo desde la localidad de Llupa
 
-Time is in local time (UTC-5h).
+La hora local es (UTC-5 horas).
 
 <a href='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' > <img src='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' width='100%'>
 </a>
 
-## Precipitation along the Huaraz transect
+## Precipitación a lo largo del transecto de Huaraz
 
-
-In the plots below the stations are ordered from west to east:
-see the map in <a href='{{site.base_url}}/region' > Study Region </a> for
-the location of the sensors.
+En lás siguientes gráficas las estaciones estan ordenadas de Oeste a Este:
+Haz click en el mapa del <a href='{{site.base_url}}/es/region' >área de estudio</a> 
+para ver la ubicación de los sensores.
 
 {% include hobos_ts.html %}
 
-*14-days average precipitation at each station, clearly displaying
-the occurrence of dry and wet spells during the rainy season.*
+*Precipitación promedio en cada estación (Promedio de 14 días). Claramente
+ muestra la ocurrencia de períodos secos y húmedos durante la temporada 
+ lluviosa.*
 
 
 {% include hobos_dc.html %}
 
- *Daily cycle of precipitation for all periods without data gaps,
- displaying a clear cycle as well a significant differences along the transect.*
+ *Ciclo diario de precipitación para todos los períodos sin brecha de datos, 
+ mostrando claramente el ciclo diurno y diferencias significativas a lo largo del
+ transecto*

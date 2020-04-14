@@ -41,13 +41,13 @@ Andes**".
 <br>
 <br>
 <br>
+<br>
 
 <img src='/img/portraits/cokl_klein.jpg' width='24%' align='left' hspace='0'>
 <a href="https://www.ceh.ac.uk/staff/cornelia-klein"> <u>Cornelia Klein</u></a> <br>
 <a href="http://acinn.uibk.ac.at/"> <u>ACINN</u></a>, Innsbruck <br>
 <a href="https://www.ceh.ac.uk/"> <u>CEH</u></a>, UK
 
-<br>
 <br>
 <br>
 

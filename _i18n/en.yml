@@ -1,6 +1,8 @@
 global:
   english: English
   spanish: Spanish
+  en: EN
+  es: ES
   site_title: AgroClim Huaraz
   site_description: Water availability and water demand in the Peruvian Andes
 navbar:

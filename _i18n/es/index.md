@@ -2,8 +2,8 @@
 <center>
 <big>
 <i>
-Una interdisciplinary research project aiming to  <br> quantify the water availability
-and the water demand <br> of small-scale farmers in the Peruvian Andes.
+Es un proyecto interdiciplinario que b&uacute;sca cuantificar la cantidad de agua disponible y estimar la demanda 
+de este recurso para peque&ntilde;os agr&iacute;cultores en los Andes Peruanos.
 </i>
 </big>
 </center>
@@ -11,4 +11,4 @@ and the water demand <br> of small-scale farmers in the Peruvian Andes.
 
 <a href="/img/farmers/02.jpg"> <img src='/img/farmers/02.jpg' width='49%' align='left'> </a>
 <a href="/img/farmers/03.jpg"> <img src='/img/farmers/03.jpg' width='49%' align='right'> </a>
-<small> *Photos: Katrin Singer* </small>
+<small> *Imagen: Katrin Singer* </small>

@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  "Launch of the project website!"
-subtitle: "Let's do more of those"
+title:  "Lanzamiento de la página web del proyecto!"
+subtitle: "Hagámos más sitios como este"
 date:   2018-07-29 10:00:00
 author:  Fabien Maussion
 background: '/img/bg-blog.jpg'
+permalink: /2018/07/29/website-launch
+permalink_es: /2018/07/29/website-launch
 ---
 
-Today we launched our new project website at
+Hoy lanzamos el sitio web de nuestro proyecto 
 [https://agroclim-huaraz.info](https://agroclim-huaraz.info) !
 
-This is something we wanted to do long ago, because we have so much to share
-already: data, publications, photos from our past expeditions...
+Esto es algo que queríamos hacer desde hace mucho tiempo, ya que tenemos 
+mucha información por compartir: datos, publicaciones, fotos de nuestras 
+expediciones pasadas, etc...
 
-We hope that you will enjoy navigating the website, and we hope that our
-project idea will be successful!
+Esperamos que disfrutes navegando a través del sito y que nuestra idea 
+de proyecto sea exitosa!

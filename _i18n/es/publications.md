@@ -1,13 +1,13 @@
-### (ES) Peer-reviewed Publications
+### Publicaciones científicas
 
 - Gurgiser, W., Juen, I., Singer, K., Neuburger, M., Schauwecker, S., Hofer, M., and Kaser, G.: Comparing peasants' perceptions of precipitation change with precipitation records in the tropical Callejón de Huaylas, Peru, Earth Syst. Dynam., 7, 499-515, [https://doi.org/10.5194/esd-7-499-2016](https://doi.org/10.5194/esd-7-499-2016), 2016.
 
-### Master theses
+### Tésis de maestría
 
 - **Schlumpberger, M.**: Wet and dry spells in the Rio Santa Basin, Peruvian Andes, and connections to the large scale circulation ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-6985))
 - **Siller, M.**: WRF simulation of wet and dry spells in the Rio Santa Basin, Peruvian Andes - A WRF Modeling Case Study ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-7816))
 
-### Conferences
+### Conferencias
 
 - **EGU 2018**: Maussion, F., Siller, M., Schlumpberger, M., Hartmann, M., Göbel, M.,  and Gurgiser, W.:
   Wet and dry spells in the Rio Santa Basin, Tropical Andes of Peru: processes and teleconnections

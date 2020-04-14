@@ -1,15 +1,15 @@
-Esta website en una... online companion to a research project financed
-by the [Austrian Academy of Sciences](https://www.oeaw.ac.at/) (ÖAW) in the
-frame of an [Earth System Sciences](https://www.oeaw.ac.at/ess/)
-call (“Water in Mountain Regions”, 2018).
+Este sito web acompaña al proyecto de investigación financiado por la
+Academia Austríaca de Ciencias [ÖAW](https://www.oeaw.ac.at/) en el marco 
+ de la iniciativa de [Ciencias de la Tierra](https://www.oeaw.ac.at/ess/)
+llamado (“El Agua en las Regiones Montañosas”, 2018).
 
-Our project started in May 2019 and is entitled "**AgroClim Huaraz:
-Spatio-temporal variability in water availability and demand in the Peruvian
+Nuestro proyecto empezó en Mayo del 2019 y lleva el nombre en íngles de 
+"**AgroClim Huaraz: Spatio-temporal variability in water availability and demand in the Peruvian
 Andes**".
 
-### Team
+### Nuestro equipo
 
-##### Project scientists
+##### Principales científicos del proyecto
 
 <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none;">
 
@@ -41,13 +41,13 @@ Andes**".
 <br>
 <br>
 <br>
+<br>
 
 <img src='/img/portraits/cokl_klein.jpg' width='24%' align='left' hspace='0'>
 <a href="https://www.ceh.ac.uk/staff/cornelia-klein"> <u>Cornelia Klein</u></a> <br>
 <a href="http://acinn.uibk.ac.at/"> <u>ACINN</u></a>, Innsbruck <br>
 <a href="https://www.ceh.ac.uk/"> <u>CEH</u></a>, UK
 
-<br>
 <br>
 <br>
 
@@ -59,19 +59,19 @@ Andes**".
 
 </ul>
 
-##### Master students
+##### Estudiantes de Maestría
 
-**Peter Albrecht**, thesis: *Influence of soil properties initialisation in WRF simulations over the Tropical Andes of Peru* <br>
-**Cornelia Zauner**, thesis: *Can atmospheric models simulate Puspa rains?*
+**Peter Albrecht**, tesis: *Influence of soil properties initialisation in WRF simulations over the Tropical Andes of Peru* <br>
+**Cornelia Zauner**, tesis: *Can atmospheric models simulate Puspa rains?*
 
-##### Local collaborations in Peru
+##### Colaboradores locales en Perú
 
 **[Alejo Cochachín Rapre](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=82a2919b5d5b34b523c4572a152f?id_investigador=145611)** ([Autoridad Nacional de Agua](http://www.ana.gob.pe/), Unidad de Glaciología y Recursos Hídricos) <br>
 **Rolando Cruz Encarnación** ([Autoridad Nacional de Agua](http://www.ana.gob.pe/), Unidad de Glaciología y Recursos Hídricos) <br>
-**Hector Oropeza Chinchay** (farmer in Llupa) <br>
+**Hector Oropeza Chinchay** (agricultor en Llupa) <br>
 
 
-##### International collaborations
+##### Colaboradores internacionales
 
 **[Thomas Condom](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/condom.htm)** ([Institute of Research for Development](https://www.ird.fr/), Grenoble, France) <br>
 **[Clémentine Junquas](http://pp.ige-grenoble.fr/pageperso/junquas/)** ([Institute of Research for Development](https://www.ird.fr/), Grenoble, France) <br>
@@ -79,28 +79,29 @@ Andes**".
 **[Christian Huggel](https://www.geo.uzh.ch/en/studying/spez_master/physical_geography/People/huggel.html)** ([University of Zürich](https://www.geo.uzh.ch/en.html), Switzerland) <br>
 **[Martina Neuburger](https://www.geo.uni-hamburg.de/en/geographie/mitarbeiterverzeichnis/neuburger.html)** ([Universität Hamburg](https://www.geo.uni-hamburg.de/en/geographie), Germany) <br>
 
-### Disclaimer
+### Aviso legal
 
-The views expressed on this site are our own and do not necessarily represent
-the official positions of our employers or the ÖAW.
+Las opiniones expresadas en este sitio web son nuestras y no necesariamente
+representan la posición oficial de nuestras instituciones de empleo o de nuestros 
+patrocinadores (ÖAW).
 
-### License
+### Derechos de autor
 
-Unless specified otherwise, the **content** of this site (including images) are licensed
-under a
-[Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+El **contenido** de este sitio web (incluyendo las imágenes) es autorizado a través
+de la licencia [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
+a no ser que se especifique de otra forma.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
 
-Website **template** from [startbootstrap](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/),
-released under MIT license (see [license.txt](https://github.com/agroclim-huaraz/agroclim-huaraz.github.io/blob/master/LICENSE.txt)).
+El **diseño** de la página web pertenece a [startbootstrap](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/),
+Y contiene una licencia MIT (ver [license.txt](https://github.com/agroclim-huaraz/agroclim-huaraz.github.io/blob/master/LICENSE.txt)).
 
-### Photo credits
+### Créditos de Imágen
 
 **Panoramas**: <br>
-[Home]({{site.base_url}}/img/bg-home.jpg),
-[Study region]({{site.base_url}}/img/bg-region.jpg),
-[Publications]({{site.base_url}}/img/bg-publi.jpg),
+[Principal]({{site.base_url}}/img/bg-home.jpg),
+[Área de estudio]({{site.base_url}}/img/bg-region.jpg),
+[Publicaciones]({{site.base_url}}/img/bg-publi.jpg),
 [Blog]({{site.base_url}}/img/bg-blog.jpg): Wolfgang Gurgiser <br>
-[About]({{site.base_url}}/img/bg-about.jpg): Daniel Heinemann  <br>
-[Live data]({{site.base_url}}/img/bg-live.jpg): [foto-webcam.eu](https://www.foto-webcam.eu/webcam/huaraz/)  <br>
+[Acerca de]({{site.base_url}}/img/bg-about.jpg): Daniel Heinemann  <br>
+[Datos en vivo]({{site.base_url}}/img/bg-live.jpg): [foto-webcam.eu](https://www.foto-webcam.eu/webcam/huaraz/)  <br>
