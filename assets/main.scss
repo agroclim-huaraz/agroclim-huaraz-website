@@ -3,3 +3,22 @@
 ---
 
 @import "styles";
+
+a.lang-switcher {
+    color: #fff;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 800;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+#mainNav.is-fixed a.lang-switcher {
+    color: #000;
+}
+@media (max-width: 991.98px) {
+    a.lang-switcher {
+        color: #000;
+        margin-left: 0;
+    }
+}

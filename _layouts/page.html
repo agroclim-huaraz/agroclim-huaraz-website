@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign lang = site.active_lang %}
 
 <!-- Page Header -->
 {% if page.background %}
@@ -13,9 +14,9 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <div class="page-heading">
-          <h1>{{ page.title }}</h1>
-          {% if page.description %}
-            <span class="subheading">{{ page.description }}</span>
+          <h1>{{ page.title[lang] }}</h1>
+          {% if page.description[lang] %}
+            <span class="subheading">{{ page.description[lang] }}</span>
           {% endif %}
         </div>
       </div>

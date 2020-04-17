@@ -5,6 +5,8 @@ subtitle: "Let's keep fingers crossed"
 date:   2018-08-12 12:00:00
 author:  Fabien Maussion
 background: '/img/bg-blog.jpg'
+permalink: /2018/08/12/proposal-submitted
+permalink_es: /2018/08/12/propuesta-solicitada
 ---
 
 Today we submitted our proposal to the [ÖAW](https://www.oeaw.ac.at/ess/)!

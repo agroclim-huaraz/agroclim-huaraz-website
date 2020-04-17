@@ -1,0 +1,21 @@
+global:
+  english: Ingl&eacute;s
+  spanish: Espa&ntilde;ol
+  en: EN
+  es: ES
+  site_title: AgroClim Huaraz
+  site_description: Sito Web del proyecto AgroClim Huaraz
+navbar:
+  project: Proyecto
+  study_region: Regi&oacute;n de Estudio
+  live_data: Archivo de Datos
+  publications: Publicaciones
+  blog: Blog
+  about: Acerca de
+titles:
+  project: Proyecto
+  study_region: Regi&amp;oacute;n de Estudio
+  live_data: Archivo de Datos
+  publications: Publicaciones
+  blog: Blog
+  about: Acerca de

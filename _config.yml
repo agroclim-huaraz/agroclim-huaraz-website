@@ -1,9 +1,12 @@
-title:             AgroClim Huaraz
 email:             your-email@example.com
-description:       Water availability and water demand in the Peruvian Andes
 author:            AgroClim project members
 baseurl:           ""
 url:               "http://agroclim-huaraz.info"
+
+# Language stuff
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
 
 # Social Profiles
 twitter_username:
@@ -17,3 +20,4 @@ paginate_path:     "/blog/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-multiple-languages-plugin

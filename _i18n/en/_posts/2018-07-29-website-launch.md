@@ -5,6 +5,8 @@ subtitle: "Let's do more of those"
 date:   2018-07-29 10:00:00
 author:  Fabien Maussion
 background: '/img/bg-blog.jpg'
+permalink: /2018/07/29/website-launch
+permalink_es: /2018/07/29/website-launch
 ---
 
 Today we launched our new project website at
