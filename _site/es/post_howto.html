@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel='shortcut icon' type='image/png' href='/es/favicon.png' />
+
+  <title>
+    
+      Write a blog post - AgroClim Huaraz
+    
+  </title>
+
+  <meta name="description" content="Sito Web del proyecto AgroClim Huaraz">
+
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="/es/assets/vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/es/assets/vendor/bootstrap/css/magnific-popup.css">
+  <link rel="stylesheet" href="/es/assets/vendor/font-awesome/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="/es/assets/main.css">
+  <link rel="canonical" href="http://agroclim-huaraz.info/es/post_howto.html">
+  <link rel="alternate" type="application/rss+xml" title="AgroClim Huaraz" href="/es/feed.xml">
+
+</head>
+
+
+  <body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand" href="/es/">AgroClim Huaraz</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/es/projecto">Proyecto</a>
+        </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/es/region/">Regi&oacute;n de Estudio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/es/live/">Archivo de Datos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/es/publications/">Publicaciones</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/es/blog/">Blog</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/es/acerca_de/">Acerca de</a>
+        </li>
+      </ul>
+    </div>
+
+    
+      
+        <a href="" class="lang-switcher english" title="English Website"><img src="/img/uk-flag-round.png" width="16px" height="16px" /> EN</a>
+    
+  </div>
+</nav>
+
+
+    
+
+<!-- Page Header -->
+
+<header class="masthead" style="background-image: url('/es/img/bg-blog.jpg')">
+
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="page-heading">
+          <h1></h1>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+
+      <h3 id="0-install-git-and-jekyll">#0: install git and Jekyll</h3>
+
+<p>See install instructions <a href="https://fabienmaussion.info/teaching/git-jekyll-workshop/">here</a>.
+Don’t forget to set-up your <a href="https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup">git identity</a>!</p>
+
+<h3 id="1-fork-and-clone-the-repository-one-time-thing">#1: fork and clone the repository (one time thing)</h3>
+
+<p>First, you need to be logged in your <a href="https://github.com/">GitHub</a> account.</p>
+
+<p>Then, navigate to the <a href="https://github.com/agroclim-huaraz/agroclim-huaraz.github.io">website’s repository</a>
+and <a href="https://help.github.com/articles/fork-a-repo/">fork it</a> to your personal
+account. Now clone <strong>your fork</strong> into your computer (this creates a new directory
+at the location you are executing the command from):</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span><span class="w"> </span>git clone https://github.com/username/agroclim-huaraz.github.io
+</code></pre></div></div>
+
+<p>Once this is done, navigate to the website’s root folder and run:</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">git remote add upstream https://github.com/agroclim-huaraz/agroclim-huaraz.github.io
+</span></code></pre></div></div>
+
+<p>To check that everything worked well, run <code class="highlighter-rouge">git remote -v</code> and verify that the output looks like:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>origin	https://github.com/username/agroclim-huaraz.github.io (fetch)
+origin	https://github.com/username/agroclim-huaraz.github.io (push)
+upstream	https://github.com/agroclim-huaraz/agroclim-huaraz.github.io (fetch)
+upstream	https://github.com/agroclim-huaraz/agroclim-huaraz.github.io (push)
+</code></pre></div></div>
+
+<h3 id="2-check-that-you-can-build-the-website">#2: check that you can build the Website</h3>
+
+<p>From the website’s root folder, run:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
+
+<p>If packages (“gems”) are missing, you might need to install them:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">install</span>
+</code></pre></div></div>
+
+<h3 id="3-before-writing-a-new-post-or-actualizing-the-website-always-update">#3: before writing a new post or actualizing the website, always update!</h3>
+
+<p>You want the <strong>local master branch</strong> to be always up-to-date with the <strong>remote</strong> one.
+To do this, do:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># go to master</span>
+<span class="nv">$ </span>git checkout master
+<span class="c"># get the info online (internet required)</span>
+<span class="nv">$ </span>git fetch upstream
+<span class="c"># update</span>
+<span class="nv">$ </span>git merge upstream/master
+</code></pre></div></div>
+
+<p>Never change anything in the master branch! If you changed something in
+master that you’d like to keep, copy the changed files somewhere else and run:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># this will overwrite all your changes</span>
+<span class="nv">$ </span>git checkout master
+<span class="nv">$ </span>git reset <span class="nt">--hard</span> upstream/master
+</code></pre></div></div>
+
+<h3 id="4-writing-a-new-post">#4: writing a new post</h3>
+
+<p>Make sure that you are up-to-date (#3). Then create a new branch:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git checkout <span class="nt">-b</span> my-new-blog-post-branch
+</code></pre></div></div>
+
+<p>Create a new markdown file in the <code class="highlighter-rouge">_posts</code> folder <strong>following the filename
+conventions</strong>. Edit the content at your wish by changing title, subtitle, date,
+author in the header. Then write your own post!</p>
+
+<h3 id="5-submitting-your-changes">#5: submitting your changes</h3>
+
+<p>Once finished, add your file to git (necessary only for new posts).
+From the root folder, run:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git add _posts/my-blog-post.md
+</code></pre></div></div>
+
+<p>Then commit your changes:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># This commits changes to all files.</span>
+<span class="c"># If you want to change only one file,</span>
+<span class="c"># replace -a with the file's path</span>
+<span class="nv">$ </span>git commit <span class="nt">-a</span> <span class="nt">-m</span> <span class="s2">"Informative short commit message"</span>
+</code></pre></div></div>
+
+<p>And push them to your fork:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git push origin my-new-blog-post-branch
+</code></pre></div></div>
+
+<p>Now, your new branch with the changes is online. Navigate to your fork’s
+github website, and (if github doesn’t propose to do so already), select your
+feature branch and propose a pull-request.</p>
+
+<h3 id="6-resolution">#6: resolution</h3>
+
+<p>If your post is merged right away, you’re done! You can delete the branch
+locally and online if you want to, but you don’t <em>need</em> to. Start at #3 again.</p>
+
+<p>If you want to do further changes before merge, do:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git checkout my-new-blog-post-branch
+<span class="c"># Edit the file...</span>
+<span class="c"># ... then commit again:</span>
+<span class="nv">$ </span>git commit <span class="nt">-a</span> <span class="nt">-m</span> <span class="s2">"I made some changes"</span>
+<span class="c"># And push to your fork:</span>
+<span class="nv">$ </span>git push origin my-new-blog-post-branch
+</code></pre></div></div>
+
+<p>This will update the pull-request automatically!</p>
+
+
+    </div>
+  </div>
+</div>
+
+
+    <!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          <li class="list-inline-item">
+              <a href="/es/feed.xml">
+                  <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                  </span>
+              </a>
+          </li>
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://github.com/agroclim-huaraz">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="copyright text-muted">Copyright <i class="fa fa-creative-commons"></i> AgroClim project members 2020</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    <script src="/es/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/es/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/es/assets/vendor/startbootstrap-clean-blog/js/clean-blog.min.js"></script>
+<script src="/es/assets/vendor/bootstrap/js/magnific.min.js"></script>
+
+<script src="/es/assets/scripts.js"></script>
+
+
+
+
+  </body>
+
+</html>
