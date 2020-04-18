@@ -74,7 +74,8 @@ Andes**".
 
 **[Alejo Cochachín Rapre](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=82a2919b5d5b34b523c4572a152f?id_investigador=145611)** ([Autoridad Nacional de Agua](http://www.ana.gob.pe/), Unidad de Glaciología y Recursos Hídricos) <br>
 **Rolando Cruz Encarnación** ([Autoridad Nacional de Agua](http://www.ana.gob.pe/), Unidad de Glaciología y Recursos Hídricos) <br>
-**Hector Oropeza Chinchay** (agricultor en Llupa) <br>
+**Fiorella Quiñonez Collas**, estudiante en la [UNASAM](http://www.unasam.edu.pe/)<br>
+**Hector Oropeza Chinchay**, agricultor en Llupa <br>
 
 
 ##### Colaboradores internacionales

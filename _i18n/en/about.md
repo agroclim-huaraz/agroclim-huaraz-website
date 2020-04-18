@@ -67,13 +67,14 @@ Andes**".
 ##### Master students
 
 **Peter Albrecht**, thesis: *Influence of soil properties initialisation in WRF simulations over the Tropical Andes of Peru* <br>
-**Zora Schirmeister**, thesis: *Future climate change in the Rio Santa Basin, Peruvian Andes,  as described by CMIP5 and CORDEX data* <br>
+**Zora Schirmeister**, thesis: *Future climate change in the Rio Santa Basin, Peruvian Andes, as described by CMIP5 and CORDEX data* <br>
 **Cornelia Zauner**, thesis: *Can atmospheric models simulate Puspa rains?*
 
 ##### Local collaborations in Peru
 
 **[Alejo Cochachín Rapre](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=82a2919b5d5b34b523c4572a152f?id_investigador=145611)** ([Autoridad Nacional de Agua](http://www.ana.gob.pe/), Unidad de Glaciología y Recursos Hídricos) <br>
 **Rolando Cruz Encarnación** ([Autoridad Nacional de Agua](http://www.ana.gob.pe/), Unidad de Glaciología y Recursos Hídricos) <br>
+**Fiorella Quiñonez Collas**, student from [UNASAM](http://www.unasam.edu.pe/)<br>
 **Hector Oropeza Chinchay** (farmer in Llupa) <br>
 
 
