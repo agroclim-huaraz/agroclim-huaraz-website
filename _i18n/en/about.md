@@ -9,6 +9,11 @@ Andes**".
 
 ### Team
 
+<a href="/img/posts/kickoff/20190605_Workshop.jpg"> <img src='/img/posts/kickoff/20190605_Workshop_s.jpg' width='100%'> </a>
+<small> *From left to right: Wolfgang Gurgiser, Pierluigi Calanca, Peter Albrecht,
+ Alejo Cochachín Rapre, Fabien Maussion, Rolando Cruz Encarnación, Georg Wohlfahrt,
+ Cornelia Zauner, Lorenz Hänchen.* </small>
+
 ##### Project scientists
 
 <ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none;">
@@ -33,12 +38,12 @@ Andes**".
 
 <br>
 <br>
+<br>
 
 <img src='/img/portraits/capi_klein.jpg' width='24%' align='left' hspace='0'>
 <a href="https://www.researchgate.net/profile/Pierluigi_Calanca"> <u>Pierluigi Calanca</u></a> <br>
 <a href="https://www.agroscope.admin.ch"> <u>Agroscope</u></a>, Zürich
 
-<br>
 <br>
 <br>
 <br>
@@ -76,9 +81,9 @@ Andes**".
 
 **[Thomas Condom](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/condom.htm)** ([Institute of Research for Development](https://www.ird.fr/), Grenoble, France) <br>
 **[Clémentine Junquas](http://pp.ige-grenoble.fr/pageperso/junquas/)** ([Institute of Research for Development](https://www.ird.fr/), Grenoble, France) <br>
-**[Mathias Vuille](http://www.atmos.albany.edu/facstaff/mathias/)** ([University at Albany](https://www.albany.edu/atmos/index.php), USA) <br>
 **[Christian Huggel](https://www.geo.uzh.ch/en/studying/spez_master/physical_geography/People/huggel.html)** ([University of Zürich](https://www.geo.uzh.ch/en.html), Switzerland) <br>
 **[Martina Neuburger](https://www.geo.uni-hamburg.de/en/geographie/mitarbeiterverzeichnis/neuburger.html)** ([Universität Hamburg](https://www.geo.uni-hamburg.de/en/geographie), Germany) <br>
+<!-- **[Mathias Vuille](http://www.atmos.albany.edu/facstaff/mathias/)** ([University at Albany](https://www.albany.edu/atmos/index.php), USA) <br> -->
 
 ### Disclaimer
 

@@ -5,9 +5,11 @@ subtitle: "And the station brought the rain"
 date:   2019-09-27 00:00:00
 author:  Fabien Maussion
 background: '/img/bg-llupa.jpg'
+permalink: /2019/09/27/field-work-fabi
+permalink_es: /2019/09/27/field-work-fabi
 ---
 
-From September 13th to  a team of three scientists from the AgroClim-Huaraz project
+In September 2019 a team of three scientists from the AgroClim-Huaraz project
 traveled to Peru for the first and most important field work of the project.
 
 <a href="/img/posts/field_work_fabi/team.jpg"> <img src='/img/posts/field_work_fabi/team.jpg' width='100%'> </a>

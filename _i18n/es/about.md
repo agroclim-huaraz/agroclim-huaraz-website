@@ -1,13 +1,18 @@
 Este sito web acompaña al proyecto de investigación financiado por la
-Academia Austríaca de Ciencias [ÖAW](https://www.oeaw.ac.at/) en el marco 
+Academia Austríaca de Ciencias [ÖAW](https://www.oeaw.ac.at/) en el marco
  de la iniciativa de [Ciencias de la Tierra](https://www.oeaw.ac.at/ess/)
 llamado (“El Agua en las Regiones Montañosas”, 2018).
 
-Nuestro proyecto empezó en Mayo del 2019 y lleva el nombre en íngles de 
+Nuestro proyecto empezó en Mayo del 2019 y lleva el nombre en íngles de
 "**AgroClim Huaraz: Spatio-temporal variability in water availability and demand in the Peruvian
 Andes**".
 
 ### Nuestro equipo
+
+<a href="/img/posts/kickoff/20190605_Workshop.jpg"> <img src='/img/posts/kickoff/20190605_Workshop_s.jpg' width='100%'> </a>
+<small> *De izquierda a derecha: Wolfgang Gurgiser, Pierluigi Calanca, Peter Albrecht,
+ Alejo Cochachín Rapre, Fabien Maussion, Rolando Cruz Encarnación, Georg Wohlfahrt,
+ Cornelia Zauner, Lorenz Hänchen.* </small>
 
 ##### Principales científicos del proyecto
 
@@ -33,12 +38,12 @@ Andes**".
 
 <br>
 <br>
+<br>
 
 <img src='/img/portraits/capi_klein.jpg' width='24%' align='left' hspace='0'>
 <a href="https://www.researchgate.net/profile/Pierluigi_Calanca"> <u>Pierluigi Calanca</u></a> <br>
 <a href="https://www.agroscope.admin.ch"> <u>Agroscope</u></a>, Zürich
 
-<br>
 <br>
 <br>
 <br>
@@ -76,14 +81,14 @@ Andes**".
 
 **[Thomas Condom](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/condom.htm)** ([Institute of Research for Development](https://www.ird.fr/), Grenoble, France) <br>
 **[Clémentine Junquas](http://pp.ige-grenoble.fr/pageperso/junquas/)** ([Institute of Research for Development](https://www.ird.fr/), Grenoble, France) <br>
-**[Mathias Vuille](http://www.atmos.albany.edu/facstaff/mathias/)** ([University at Albany](https://www.albany.edu/atmos/index.php), USA) <br>
 **[Christian Huggel](https://www.geo.uzh.ch/en/studying/spez_master/physical_geography/People/huggel.html)** ([University of Zürich](https://www.geo.uzh.ch/en.html), Switzerland) <br>
 **[Martina Neuburger](https://www.geo.uni-hamburg.de/en/geographie/mitarbeiterverzeichnis/neuburger.html)** ([Universität Hamburg](https://www.geo.uni-hamburg.de/en/geographie), Germany) <br>
+<!-- **[Mathias Vuille](http://www.atmos.albany.edu/facstaff/mathias/)** ([University at Albany](https://www.albany.edu/atmos/index.php), USA) <br> -->
 
 ### Aviso legal
 
 Las opiniones expresadas en este sitio web son nuestras y no necesariamente
-representan la posición oficial de nuestras instituciones de empleo o de nuestros 
+representan la posición oficial de nuestras instituciones de empleo o de nuestros
 patrocinadores (ÖAW).
 
 ### Derechos de autor
