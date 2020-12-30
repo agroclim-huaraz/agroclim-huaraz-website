@@ -7,4 +7,4 @@ The event was recorded and can be seen here: https://www.youtube.com/watch?v=J8A
 - @min45:00 Anaïs Zimmer from University of Texas presents first results from Coordillera Blanca Grazing Experiment with Llamas!
 - hopefully we can all meet physically @IMC2022: https://www.uibk.ac.at/congress/imc2022/
 
-<a href="/img/IMD2020/IMD_screenshot.png"> <img src='/img/l/img/IMD_screenshot.png' width='100%'> </a>
+<a href="/img/IMD2020/IMD_screenshot.png"> <img src='/img/IMD2020/IMD_screenshot.png' width='100%'> </a>
