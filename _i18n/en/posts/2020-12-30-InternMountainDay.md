@@ -2,7 +2,7 @@
 layout: post
 title:  "AgroClim-Huaraz at IMD2020"
 subtitle: "Celebrating International Mountain Day internationally ;)"
-date:   2020-09-10 12:00:00
+date:   2020-12-30 12:00:00
 author:  Lorenz Haenchen
 background: '/img/bg-blog.jpg'
 ---
