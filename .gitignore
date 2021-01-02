@@ -3,3 +3,4 @@ docs/es/docs
 node_modules
 .sass-cache
 *.gem
+.jekyll-cache
