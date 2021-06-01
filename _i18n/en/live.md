@@ -11,7 +11,7 @@
 Time is in local time (UTC-5h).
 
 <a href='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' > <img src='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' width='100%'>
-</a>  Interactive version available [here](http://meteo145.uibk.ac.at/llupa/overview_aws_llupa_3days.html).
+</a>  Interactive version available [here](https://acinn-data.uibk.ac.at/visualisations/overview_aws_llupa_3days.html).
 
 ## Precipitation along the Huaraz transect
 
