@@ -17,6 +17,7 @@
 - **Schirmeister, Z.**: Future climate change in the Peruvian Andes as described by CORDEX data ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5884055))
 - **Schlumpberger, M.**: Wet and dry spells in the Rio Santa Basin, Peruvian Andes, and connections to the large scale circulation ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-6985))
 - **Siller, M.**: WRF simulation of wet and dry spells in the Rio Santa Basin, Peruvian Andes - A WRF Modeling Case Study ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-7816))
+- **Stockhard, M.**: Investigating elevation dependent surface temperature warming and vegetation greening in the Andes using MODIS data (ongoing)
 - **Wöckinger, S.**: High Resolution Climate Simulations in the Rio Santa Basin, Peru, with COSMO-CLM-GPU (ongoing)
 - **Zauner, C.**: Meteorological analysis of a Puspa rain event in the Callejón de Huaylas, Peruvian Andes, with the help of atmospheric simulations and observations ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5548678))
 
