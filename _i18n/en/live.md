@@ -13,6 +13,8 @@ Time is in local time (UTC-5h).
 <a href='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' > <img src='http://ertel2.uibk.ac.at/ertel/data/pngs/llupa/llupa_main_current.png' width='100%'>
 </a>  Interactive version available [here](https://acinn-data.uibk.ac.at/visualisations/overview_aws_llupa_3days.html).
 
+Data available for download on [acinn-data](https://acinn-data.uibk.ac.at/pages/llupa.html).
+
 ## Precipitation along the Huaraz transect
 
 
@@ -30,3 +32,5 @@ the occurrence of dry and wet spells during the rainy season.*
 
  *Daily cycle of precipitation for all periods without data gaps,
  displaying a clear cycle as well a significant differences along the transect.*
+
+Data available on acinn-data soon. In the meantime, contact [Fabien Maussion](https://fabienmaussion.info) for data access.

@@ -1,11 +1,6 @@
 ### Publications
 
-**In review**
-
--  Hänchen, L., Klein, C., Maussion, F., Gurgiser, W., Calanca, P., and Wohlfahrt, G.: Vegetation indices as proxies for spatio-temporal variations in water availability in the Rio Santa valley (Peruvian Andes), Earth Syst. Dynam. Discuss. [preprint], [https://doi.org/10.5194/esd-2021-60](https://doi.org/10.5194/esd-2021-60), in review, 2021. 
-
-**Peer-reviewed**
-
+- Hänchen, L., Klein, C., Maussion, F., Gurgiser, W., Calanca, P., and Wohlfahrt, G.: Widespread greening suggests increased dry-season plant water availability in the Rio Santa valley, Peruvian Andes, Earth Syst. Dynam., 13, 595–611, [doi:10.5194/esd-13-595-2022](https://doi.org/10.5194/esd-13-595-2022), 2022. 
 - Klein, C., Nkrumah, F., Taylor, C. M. and Adefisan, E. A.: Seasonality and trends of drivers of mesoscale convective systems in Southern West Africa, J. Clim., 34(1), 71–87, [https://doi.org/10.1175/JCLI-D-20-0194.1](https://doi.org/10.1175/JCLI-D-20-0194.1), 2021.
 - Barton, E. J., Taylor, C. M., Klein, C., Harris, P. P. and Meng, X.: Observed soil moisture impact on strong convection over mountainous tibetan plateau, J. Hydrometeorol., 22(3), 561–572, [https://doi.org/10.1175/JHM-D-20-0129.1](https://doi.org/10.1175/JHM-D-20-0129.1), 2021.
 - Klein, C. and Taylor, C. M.: Dry soils can intensify mesoscale convective systems, Proc. Natl. Acad. Sci. U. S. A., 117(35), 21132–21137, [https://doi.org/10.1073/pnas.2007998117](https://doi.org/10.1073/pnas.2007998117), 2020.
@@ -13,12 +8,12 @@
 
 ### Master theses
 
-- **Albrecht, P.**: Past climate change in the Rio Santa Basin, Peruvian Andes (ongoing)
+- **Albrecht, P.**: Past climate change in the Rio Santa Basin, Peruvian Andes (defended)
 - **Schirmeister, Z.**: Future climate change in the Peruvian Andes as described by CORDEX data ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5884055))
 - **Schlumpberger, M.**: Wet and dry spells in the Rio Santa Basin, Peruvian Andes, and connections to the large scale circulation ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-6985))
 - **Siller, M.**: WRF simulation of wet and dry spells in the Rio Santa Basin, Peruvian Andes - A WRF Modeling Case Study ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-7816))
 - **Stockhard, M.**: Investigating elevation dependent surface temperature warming and vegetation greening in the Andes using MODIS data (ongoing)
-- **Wöckinger, S.**: High Resolution Climate Simulations in the Rio Santa Basin, Peru, with COSMO-CLM-GPU (ongoing)
+- **Wöckinger, S.**: High Resolution Climate Simulations in the Rio Santa Basin, Peru, with COSMO-CLM-GPU (defended)
 - **Zauner, C.**: Meteorological analysis of a Puspa rain event in the Callejón de Huaylas, Peruvian Andes, with the help of atmospheric simulations and observations ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5548678))
 
 ### Conferences

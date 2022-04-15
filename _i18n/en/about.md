@@ -16,53 +16,49 @@ Andes**".
 
 ##### Project scientists
 
-<ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none;">
-
-<img src='/img/portraits/mafa_klein.jpg' width='24%' align='left' hspace='0'>
+<img src='/img/portraits/mafa_klein.jpg' width='12%' align='left' hspace='0'>
 <a href="https://fabienmaussion.info/"> <u>Fabien Maussion</u></a> <br>
 <a href="http://acinn.uibk.ac.at/"> <u>ACINN</u></a>, University of Innsbruck
 
 <br>
-<br>
 
-<img src='/img/portraits/guwo_klein.jpg' width='24%' align='left' hspace='0'>
+<img src='/img/portraits/guwo_klein.jpg' width='12%' align='left' hspace='0'>
 <a href="http://acinn.uibk.ac.at/persons/wolfgang_gurgiser"> <u>Wolfgang Gurgiser</u></a> <br>
 <a href="http://acinn.uibk.ac.at/"> <u>ACINN</u></a>, University of Innsbruck
 
 <br>
-<br>
 
-<img src='/img/portraits/woge_klein.jpg' width='24%' align='left' hspace='0'>
+<img src='/img/portraits/woge_klein.jpg' width='12%' align='left' hspace='0'>
 <a href="https://www.uibk.ac.at/ecology/staff/persons/wohlfahrt.html.en"> <u>Georg Wohlfahrt</u></a> <br>
 <a href="https://www.uibk.ac.at/ecology/index.html.en"> <u>Department of Ecology</u></a>, University of Innsbruck
 
 <br>
-<br>
-<br>
 
-<img src='/img/portraits/capi_klein.jpg' width='24%' align='left' hspace='0'>
+<img src='/img/portraits/capi_klein.jpg' width='12%' align='left' hspace='0'>
 <a href="https://www.researchgate.net/profile/Pierluigi_Calanca"> <u>Pierluigi Calanca</u></a> <br>
 <a href="https://www.agroscope.admin.ch"> <u>Agroscope</u></a>, Zürich
 
 <br>
-<br>
-<br>
 
-<img src='/img/portraits/cokl_klein.jpg' width='24%' align='left' hspace='0'>
+<img src='/img/portraits/cokl_klein.jpg' width='12%' align='left' hspace='0'>
 <a href="https://www.ceh.ac.uk/staff/cornelia-klein"> <u>Cornelia Klein</u></a> <br>
 <a href="http://acinn.uibk.ac.at/"> <u>ACINN</u></a>, Innsbruck <br>
 <a href="https://www.ceh.ac.uk/"> <u>CEH</u></a>, UK
 
 <br>
+
+<img src='/img/portraits/empo_klein.jpg' width='12%' align='left' hspace='0'>
+<a href="http://acinn.uibk.ac.at/"> <u>Emily Potter</u></a> <br>
+<a href="http://acinn.uibk.ac.at/"> <u>ACINN</u></a>, University of Innsbruck
+
 <br>
 
-<img src='/img/portraits/loha_klein.jpg' width='24%' align='left' hspace='0'>
+<img src='/img/portraits/loha_klein.jpg' width='12%' align='left' hspace='0'>
 <a href="https://www.uibk.ac.at/ecology/staff/persons/haehnchen.html.en"> <u>Lorenz Hänchen</u></a> <br>
 <a href="https://www.uibk.ac.at/ecology/index.html.en"> <u>Department of Ecology</u></a>, University of Innsbruck
 
 <br>
 
-</ul>
 
 ##### Local collaborations in Peru
 
