@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/es/sitemap.xml
+Sitemap: http://agroclim-huaraz.info/es/sitemap.xml

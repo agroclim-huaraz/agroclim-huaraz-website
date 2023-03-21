@@ -33,4 +33,4 @@ the occurrence of dry and wet spells during the rainy season.*
  *Daily cycle of precipitation for all periods without data gaps,
  displaying a clear cycle as well a significant differences along the transect.*
 
-Data available on acinn-data soon. In the meantime, contact [Fabien Maussion](https://fabienmaussion.info) for data access.
+Data available for download on [acinn-data](https://acinn-data.uibk.ac.at/pages/rio-santa-basin-hobo-stations.html).
