@@ -18,7 +18,7 @@ destination:       ./docs
 exclude:
   - docs
 markdown:          kramdown
-paginate:          20
+paginate:          30
 paginate_path:     "/blog/page:num/"
 plugins:
   - jekyll-feed
